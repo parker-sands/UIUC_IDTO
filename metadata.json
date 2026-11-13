@@ -1,0 +1,6 @@
+{
+  "name": "Graduate Champaign: Project Manager's Decision Lab",
+  "description": "Interactive earned-value analysis and project management decision simulation for Graduate Champaign hotel construction (Version 1.3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
